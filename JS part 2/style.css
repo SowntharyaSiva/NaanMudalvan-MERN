@@ -1,0 +1,8 @@
+
+#product{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    gap: 25px;
+}
+
